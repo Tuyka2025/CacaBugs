@@ -1,10 +1,10 @@
-## Atividade Prática: "Caça-bugs" em Equipe
+## Atividade Prática: "Caça-bugs" em Individual
 
 ## Descrição
 
-Bem-vindos à atividade "Caça-bugs" em Equipe! Nesta atividade, vocês terão a oportunidade de colocar em prática seus conhecimentos sobre testes de software de uma forma divertida e colaborativa.
+Bem-vindo à atividade "Caça-bugs" em Equipe! Nesta atividade, você terá a oportunidade de colocar em prática seus conhecimentos sobre testes de software de uma forma divertida e colaborativa.
 
-Vocês trabalharão com uma aplicação web simples (TechStore) que contém diversos bugs propositais. O desafio é identificar o máximo de problemas possível utilizando técnicas de teste exploratório.
+Você trabalhará com uma aplicação web simples (TechStore) que contém diversos bugs propositais. O desafio é identificar o máximo de problemas possível utilizando técnicas de teste exploratório.
 
 ## Objetivos da Atividade
 
@@ -20,7 +20,7 @@ Vocês trabalharão com uma aplicação web simples (TechStore) que contém dive
 
 ## Instruções
 
-1. Formem duplas
+1. Em individual
 2. **Façam um Fork do repositório antes de iniciar o processo de testes**
 3. Abram o arquivo `index.html` em um navegador
 4. Explorem a aplicação e identifiquem o máximo de bugs possível
