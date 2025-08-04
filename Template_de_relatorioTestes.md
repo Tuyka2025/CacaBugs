@@ -1,10 +1,8 @@
 ## Template de Relatório - Atividade "Caça-bugs"
 
-### Informações da Equipe
+### Informações Individual
 
-**Nome da Equipe:** [Inserir nome da equipe]
-
-**Integrantes:** [Listar nomes dos integrantes]
+**Nome do Integrante:** [Inserir nome do integrante]
 
 **Data da atividade:** [Inserir data]
 
