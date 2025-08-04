@@ -2,9 +2,9 @@
 
 ### Informações Individual
 
-**Nome do Integrante:** [Inserir nome do integrante]
+**Nome do Integrante:** [Tábatha Moreira Fernandes Rodrigues de Souza]
 
-**Data da atividade:** [Inserir data]
+**Data da atividade:** [04 de Agosto de 2025]
 
 ### Bugs Encontrados
 
